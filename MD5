@@ -1,0 +1,16 @@
+a6164a56f722e11c0523a50e679d7372 *DESCRIPTION
+f85e9e2c38a04b92822fa78e0edfe9f4 *NAMESPACE
+200d877dbbcb68570f8a48202a60e5f5 *R/ANOVA.boot.R
+00b21d01970872e09c59a89b761c6657 *R/bayesian.boot.R
+4f53e3f0d612ad072fcff5505587a6e0 *R/jackknife.R
+0637064541c3416799d4c5c84512c1d1 *R/paired.boot.R
+2bc7055e493e7cd58adad3ba011d390e *R/residual.boot.R
+de1f7665520c1baf4f67b67f897eecef *R/wild.boot.R
+d93c301d6ebc4b575724d9e9f630d9b8 *build/partial.rdb
+a48deaa6c580a6157c63b8ef15854af9 *man/ANOVA.boot.Rd
+46f7e406e23dc6ba0f6574dcb90987d2 *man/bayesian.boot.Rd
+ae89a5ca597180224449fe9453759866 *man/jackknife.Rd
+e6e60b4dfaeb1554e7b1901a6cbb7da8 *man/lmboot-package.Rd
+59eac7a4ecff162f274cdb2475174f61 *man/paired.boot.Rd
+74be34a7e79af3499c574dd01c4c153a *man/residual.boot.Rd
+bd43ebc992e48d878a06020d178f9589 *man/wild.boot.Rd
